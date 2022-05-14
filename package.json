@@ -1,0 +1,15 @@
+{
+  "name": "i",
+  "version": "1.0.0",
+  "description": " il nostoro primo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yasuoeidtz",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.7.0"
+  },
+  "devDependencies": {}
+}
